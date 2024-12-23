@@ -1,6 +1,6 @@
 # Cisco VPN connect script for Elgato Stream Deck (macOS)
 
-This script allows you to connect to a Cisco VPN directly from your Elgato Stream Deck or just by running it.
+This script allows you to connect to a Cisco VPN directly from your Elgato Stream Deck or just by running it from a terminal.
   
 ## Prerequisites
 
@@ -26,7 +26,7 @@ Make sure that the Cisco VPN client is installed on your machine and that you ca
 
 2. Navigate to the folder containing the script.
 
-### Step 3: Stream Deck Configuration (optional)
+### Step 3: Stream Deck Configuration (optional, if running from terminal)
 
 1. Open the Elgato Stream Deck software.
 2. Add a **Custom Action** button.
