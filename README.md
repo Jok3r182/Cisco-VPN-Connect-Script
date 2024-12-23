@@ -7,8 +7,8 @@ This script allows you to connect to a Cisco VPN directly from your Elgato Strea
 Before using this script, ensure the following:
 
 - **Cisco VPN Client**: Installed and configured on your machine.
-- **Elgato Stream Deck**: Stream Deck software installed and running.
-- **Stream Deck SDK**: You need the Elgato Stream Deck SDK to use the custom actions.
+- **Elgato Stream Deck**: Stream Deck software installed and running. (optional, if running from terminal)
+- **Stream Deck SDK**: You need the Elgato Stream Deck SDK to use the custom actions. (optional, if running from terminal)
 
 ## Setup Instructions
 
@@ -26,7 +26,7 @@ Make sure that the Cisco VPN client is installed on your machine and that you ca
 
 2. Navigate to the folder containing the script.
 
-### Step 3: Stream Deck Configuration
+### Step 3: Stream Deck Configuration (optional)
 
 1. Open the Elgato Stream Deck software.
 2. Add a **Custom Action** button.
